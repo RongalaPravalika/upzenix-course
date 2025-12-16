@@ -6,14 +6,10 @@ A **responsive and elegant registration form** built with React, featuring form 
 
 ## **Demo Video**
 
-[Watch Demo Video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)  
-
-*(Replace `YOUR_VIDEO_ID` with your actual Google Drive video link)*
-
-You can also embed the video directly:
+[Watch Demo Video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
 
 <video width="600" controls>
-  <source src="https://drive.google.com/uc?export=download&id=YOUR_VIDEO_ID" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1QAD4bshjWUOkR36z3yN0X87tQROpORVy/view?usp=drivesdk" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
